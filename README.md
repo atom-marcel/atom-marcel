@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atom-marcel
-- 👀 I’m interested in Android app development and GUI programming.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in all sorts of programming.
+- 🌱 I’m currently learning Javascript and C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
