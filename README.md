@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @atom-marcel
 - 👀 I’m interested in all sorts of programming.
-- 🌱 I’m currently learning Javascript and C#.
+- 🌱 I’m currently learning C++.
+- I'm currently working with C++ libraries: FFMPEG, SDL (Simple DirectMedia Layer)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
